@@ -1,0 +1,51 @@
+
+h1{
+    font-family: 'Balsamiq Sans';
+    font-size: 40px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+}
+
+.container{
+    align-items: center;
+    margin: 0px 250px;
+}
+
+.primerBloque{
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 15px;
+    background-color: rgb(66, 152, 223);
+}
+
+.segundoBloque{
+    width: 800px;
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 15px;
+    background-color: rgb(243, 137, 181);
+}
+
+.tercerBloque{
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 15px;
+    background-color: rgb(214, 206, 206);
+}
+
+footer{
+    font-family: 'Balsamiq Sans';
+    font-size: 15px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
